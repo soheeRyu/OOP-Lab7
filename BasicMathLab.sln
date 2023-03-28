@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathLab", "BasicMathLab.csproj", "{17EBEFFA-5EBD-41B3-B7AF-41FAC301679E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathLab.Tests", "..\BasicMathLab.Tests\BasicMathLab.Tests.csproj", "{C25165BD-5670-465C-B28F-E264B1A390DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17EBEFFA-5EBD-41B3-B7AF-41FAC301679E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EBEFFA-5EBD-41B3-B7AF-41FAC301679E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EBEFFA-5EBD-41B3-B7AF-41FAC301679E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EBEFFA-5EBD-41B3-B7AF-41FAC301679E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25165BD-5670-465C-B28F-E264B1A390DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25165BD-5670-465C-B28F-E264B1A390DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25165BD-5670-465C-B28F-E264B1A390DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25165BD-5670-465C-B28F-E264B1A390DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2380AEDF-2174-4EA8-A852-EA3614869E91}
+	EndGlobalSection
+EndGlobal
